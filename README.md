@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditi Sharma</h1>
 
 <h3 align="center">
-B.Tech CSE Student | Frontend Developer | Exploring AI & Web Development
+B.Tech CSE Student | Exploring AI & Web Development
 </h3>
 
 <p align="center">
@@ -12,12 +12,11 @@ Building innovative web applications and learning modern software development te
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech CSE Student (4th Semester)
-- 🌱 Currently learning JavaScript & Python
-- 💻 Interested in Frontend Development
-- 🚀 Working on Women Safety Project - Nirbhaya
+- 🎓 B.Tech CSE Student 
+- 🌱 Currently learning Web Devlopment
+- 💻 Interested in Full Stack Development
 - 🤖 Exploring AI Projects
-- 📫 Reach me at: your-email@gmail.com
+- 📫 Reach me at: your- aditidevendra4321@gmail.com
 
 ---
 
@@ -39,14 +38,8 @@ Building innovative web applications and learning modern software development te
 
 ## 🌟 Featured Projects
 
-### 🚨 Nirbhaya
-Women Safety Website for emergency help and reporting.
-
-### 🌐 Portfolio Website
-Personal portfolio showcasing skills and achievements.
-
-### 🤖 AI Interview Preparation Assistant
-AI-powered interview practice platform.
+### 🚨 Nirbhaya-womens safety platfrom
+Women Safety Website for emergency help 
 
 ---
 
@@ -60,7 +53,7 @@ AI-powered interview practice platform.
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditi-sharma-262924377?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cutepieaditi123-wq)
 
