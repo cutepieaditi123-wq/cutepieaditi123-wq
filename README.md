@@ -18,6 +18,8 @@ Building innovative web applications and learning modern software development te
 - 🤖 Exploring AI Projects
 - 📫 Reach me at: your- aditidevendra4321@gmail.com
 
+![](https://komarev.com/ghpvc/?username=cutepieaditi123-wq&color=blue)
+
 ---
 
 ## 🚀 Tech Stack
