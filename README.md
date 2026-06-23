@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditi Sharma</h1>
+- 🌱 Currently learning Web Devlopment<h1 align="center">Hi 👋, I'm Aditi Sharma</h1>
 
 <h3 align="center">
 B.Tech CSE Student | Exploring AI & Web Development
@@ -13,7 +13,7 @@ Building innovative web applications and learning modern software development te
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech CSE Student 
-- 🌱 Currently learning Web Devlopment
+
 - 💻 Interested in Full Stack Development
 - 🤖 Exploring AI Projects
 - 📫 Reach me at: your- aditidevendra4321@gmail.com
@@ -28,7 +28,13 @@ Building innovative web applications and learning modern software development te
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Programming Languages
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
